@@ -21,3 +21,6 @@ Have fun with the "little thing" and good luck.
 
 > [!CAUTION]
 > Please be careful, its risky to operate this publicly. Please use a login system to access the web console and also use a secure port. Thank you.
+
+
+![Preview](img/preview.png)
